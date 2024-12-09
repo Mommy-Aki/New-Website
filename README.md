@@ -1,2 +1,2 @@
-# Tori's Chicken Nuggies
+# :C
 A new website created by Aki and Tay [Tori]
